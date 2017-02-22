@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>pointer-events</title>
+	<style>
+		* { margin: 0; padding: 0; }
+		.container { height: 400px; background: pink; }
+		.box { width: 200px; height: 200px; background: #000; pointer-events: none; }
+	</style>
+</head>
+<body>
+	<div class="container" id="app" @click="fn1">
+		<div class="box" @click="fn2"></div>
+	</div>
+</body>
+<script src="vue.min.js"></script>
+<script>
+	// pointer-events 在元素上设置这个css属性为none，则元素将失去所有事件响应。auto 恢复
+	var app = new Vue({
+		el: '#app',
+		data: function () {
+			return {}
+		},
+		methods: {
+			fn1: function () {
+				alert('container')
+			},
+			fn2: function () {
+				alert('box')
+			}
+		}
+	})
+	// 参考链接：https://developer.mozilla.org/cn/docs/Web/CSS/pointer-events
+</script>
+</html>

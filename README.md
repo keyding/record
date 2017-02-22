@@ -1,8 +1,11 @@
 # Record
 
-- [Mac Chrome 本地跨域启动命令](record/mac-chrome-本地跨域启动命令.md)
-- [require 压缩命令](record/require-压缩命令.md)
-- [Mac 下一条命令开启本地web服务](record/mac-下一条命令开启本地web服务.md)
-- [Mac 加速](record/mac-加速.md)
+- [Mac Chrome本地跨域启动命令](record/mac-chrome本地跨域启动命令.md)
+- [require压缩命令](record/require压缩命令.md)
+- [Mac下一条命令开启本地web服务](record/mac下一条命令开启本地web服务.md)
+- [Mac加速](record/mac加速.md)
+- [Mac下如何安装phantomjs](record/mac下如何安装phantomjs.md)
 
 # Code
+
+- [pointer-events](code/pointer-events.html)
