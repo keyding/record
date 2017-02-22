@@ -4,7 +4,7 @@
 - [require压缩命令](record/require压缩命令.md)
 - [Mac下一条命令开启本地web服务](record/mac下一条命令开启本地web服务.md)
 - [Mac加速](record/mac加速.md)
-- [Mac下如何安装phantomjs](record/mac下如何安装phantomjs.md)
+- [Mac如何安装phantomjs](record/mac如何安装phantomjs.md)
 
 # Code
 
