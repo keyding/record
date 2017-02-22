@@ -18,6 +18,7 @@
 - [Vue多页面项目脚手架](https://github.com/jarvan4dev/vue-multi-page)
 - [vue-router源码分析](https://zhuanlan.zhihu.com/p/24104410)
 - [基于 Vue 的简洁 HTML5 视频播放器组件](https://github.com/hilongjw/vue-video)
+- [Vue2.0 Transition常见用法全解惑](http://hyuhan.com/2016/12/08/vue-transition/)
 
 ## 小程序
 
@@ -33,6 +34,9 @@
 - [PNG在线压缩](https://tinypng.com/)
 - [image to base64](https://www.base64-image.de/)
 - [AnyProxy开发式的HTTP/HTTPS代理](http://anyproxy.io/cn/)
+- [Download APK](https://apkpure.com/)
+- [Sketch中国社区](http://sketchchina.com/)
+- [WebSocket 在线测试](http://www.blue-zero.com/WebSocket/)
 
 ## Manual
 
@@ -46,6 +50,8 @@
 - [Mint UI - 基于Vue.js(1.0 & 2.0)的移动端组件库](http://mint-ui.github.io/#!/zh-cn)
 - [VUX - 基于WeUI和Vue(2.x)开发的移动端UI组件库](https://vux.li/#/)
 - [Vue Material](https://vuematerial.github.io/#/)
+- [Express中文](http://www.expressjs.com.cn/)
+- [echarts 3](http://echarts.baidu.com/)
 
 ## 其他
 
