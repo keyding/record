@@ -13,3 +13,11 @@
 - [随机打乱数组(ES6)](code/随机打乱数组.md)
 - [给页面上所有元素标出边框](code/给页面上所有元素标出边框.md)
 - [用JS代码求出页面上一个元素的最终的background-color，不考虑IE浏览器，不考虑元素float情况](code/用JS代码求出页面上一个元素的最终的background-color.md)
+
+# Links
+
+- [links](links/links.md)
+
+# books
+
+- [books](book/)
