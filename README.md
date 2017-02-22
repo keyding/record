@@ -17,7 +17,3 @@
 # Links
 
 - [links](links/links.md)
-
-# books
-
-- [books](books/)
