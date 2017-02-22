@@ -9,3 +9,5 @@
 # Code
 
 - [pointer-events](code/pointer-events.html)
+- [ES6 数组去重方法](code/es6数组去重方法.md)
+- [随机打乱数组(ES6)](code/随机打乱数组.md)
