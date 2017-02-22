@@ -20,4 +20,4 @@
 
 # books
 
-- [books](book/)
+- [books](books/)
