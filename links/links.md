@@ -6,6 +6,7 @@
 
 - [npm模块安装机制](http://www.ruanyifeng.com/blog/2016/01/npm-install.html)
 - [yarn 中文网站](https://yarnpkg.com/zh-Hans/)
+- [axios - Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
 
 ## Vue
 
@@ -37,6 +38,8 @@
 - [Download APK](https://apkpure.com/)
 - [Sketch中国社区](http://sketchchina.com/)
 - [WebSocket 在线测试](http://www.blue-zero.com/WebSocket/)
+- [BootCDN - 前端开源CND服务](http://www.bootcdn.cn/)
+- [AnyProxy - A fully configurable http/https proxy in NodeJS](https://github.com/alibaba/anyproxy)
 
 ## Manual
 
