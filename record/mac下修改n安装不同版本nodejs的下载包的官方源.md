@@ -9,8 +9,8 @@ vi ~/.bash_profile
 - 增加如下两行命令
 
 ```sh
-export PATH="${PATH}:/Users/johnny/develop/phantomjs-2.1.1-macosx/bin"
 export PROJECT_NAME="node"
+export PROJECT_URL="https://npm.taobao.org/mirrors/node/"
 ```
 - 保存文件后终端中输入
 
