@@ -6,6 +6,7 @@
 - [Mac加速](record/mac加速.md)
 - [Mac如何安装phantomjs](record/mac如何安装phantomjs.md)
 - [mac下修改n安装不同版本nodejs的下载包的官方源](record/mac下修改n安装不同版本nodejs的下载包的官方源.md)
+- [mac安全性与隐私中没有任何来源选项](mac安全性与隐私中没有任何来源选项.md)
 
 # Code
 
