@@ -40,13 +40,17 @@
 - [WebSocket 在线测试](http://www.blue-zero.com/WebSocket/)
 - [BootCDN - 前端开源CND服务](http://www.bootcdn.cn/)
 - [AnyProxy - A fully configurable http/https proxy in NodeJS](https://github.com/alibaba/anyproxy)
+- [BandeagonHOST](https://bwh1.net/index.php)
+- [Shadowsocks](https://sourceforge.net/projects/shadowsocksgui/)
+- [站长工具](http://tool.chinaz.com/)
+- [全球 IPv4 地址归属地](http://www.ipip.net/)
 
 ## Manual
 
 - [Web技术文档 - MDN](https://developer.mozilla.org/zh-CN/docs/Web)
 - [ECMAScript5.1中文版](http://yanhaijing.com/es5/)
 
-## 前端库
+## Library
 
 - [iView - 基于Vue.js 1.0的组件库](https://www.iviewui.com/)
 - [Element - 基于Vue.js 2.0的组件库](http://element.eleme.io/#/zh-CN)
@@ -55,8 +59,12 @@
 - [Vue Material](https://vuematerial.github.io/#/)
 - [Express中文](http://www.expressjs.com.cn/)
 - [echarts 3](http://echarts.baidu.com/)
+- [Velocity.js](http://velocityjs.org/)
 
-## 其他
+## Other
 
 - [畅想动画制作的乐趣](https://yq.aliyun.com/articles/69561?spm=5176.100239.bloglist.166.eriSMB)
-- [Velocity.js](http://velocityjs.org/)
+
+## Unfinished
+
+- [document.execCommand](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/execCommand)
