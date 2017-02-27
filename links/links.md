@@ -7,6 +7,9 @@
 - [npm模块安装机制](http://www.ruanyifeng.com/blog/2016/01/npm-install.html)
 - [yarn 中文网站](https://yarnpkg.com/zh-Hans/)
 - [axios - Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
+- [Electron](http://electron.atom.io/)
+- [Electron Docs](http://electron.atom.io/docs/)
+- [WEEX](https://weex-project.io/cn/)
 
 ## Vue
 
@@ -64,6 +67,10 @@
 ## Other
 
 - [畅想动画制作的乐趣](https://yq.aliyun.com/articles/69561?spm=5176.100239.bloglist.166.eriSMB)
+- [Electron 与 Vue 的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
+- [Electron 自动更新的完整教程（Windows 和 OSX）](https://segmentfault.com/a/1190000007616641)
+- [FlGlet](https://aotu.io/notes/2016/11/22/figlet/)
+- [Nginx 配置 HTTPS 服务器](https://aotu.io/notes/2016/08/16/nginx-https/)
 
 ## Unfinished
 
