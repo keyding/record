@@ -47,6 +47,7 @@
 - [Shadowsocks](https://sourceforge.net/projects/shadowsocksgui/)
 - [站长工具](http://tool.chinaz.com/)
 - [全球 IPv4 地址归属地](http://www.ipip.net/)
+- [Fuse Docs](https://www.fusetools.com/docs)
 
 ## Manual
 
@@ -71,7 +72,11 @@
 - [Electron 自动更新的完整教程（Windows 和 OSX）](https://segmentfault.com/a/1190000007616641)
 - [FlGlet](https://aotu.io/notes/2016/11/22/figlet/)
 - [Nginx 配置 HTTPS 服务器](https://aotu.io/notes/2016/08/16/nginx-https/)
+- [招商银行工资单查询系统](https://www.bj.cmbchina.com/bjtransweb/wsgzd_employ/login.jsp)
 
 ## Unfinished
 
 - [document.execCommand](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/execCommand)
+- [vue-analysis](https://github.com/Ma63d/vue-analysis)
+- [高效编写微信小程序](https://isux.tencent.com/high-performance-wechat-app-development.html)
+- [PWA](https://zhuanlan.zhihu.com/p/25459319)
