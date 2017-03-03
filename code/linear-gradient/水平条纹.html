@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>水平条纹</title>
+	<style>
+		* { padding:  0; margin: 0; }
+		div { float: left; margin: 10px; width: 200px; height: 300px; }
+		.app1 { background: linear-gradient(#fb3, #58a); }
+		.app2 { background: linear-gradient(#fb3 50%, #58a 50%); }
+		.app3 { background: linear-gradient(#fb3 30%, #58a 30%); background-size: 100% 30px; }
+		.app4 { background: linear-gradient(#fb3 30%, #58a 0); background-size: 100% 30px; }
+		.app5 { background: linear-gradient(#fb3 33.3%, #58a 0, #58a 66.6%, yellowgreen 0); background-size: 100% 30px; }
+	</style>
+</head>
+<body>
+	<div class="app1"></div>
+	<div class="app2"></div>
+	<div class="app3"></div>
+	<div class="app4"></div>
+	<div class="app5"></div>
+</body>
+<script>
+	/**
+	 * 1. 如果多个色标具有相同的位置，它们会产生一个无限小的过渡区域，
+	 *    过渡的起止色分别是第一个和最后一个指定值，从效果上看，颜色会从那个位置上突然变化，而不是一个平滑的渐变过程。
+	 *
+	 * 2. 如果某个色标的位置值比整个列表中在它之前的色标的位置值都要小，
+	 *    则该色标的位置值会被设置为它前面所有色标位置值的最大值。
+	 *
+	 */
+</script>
+</html>

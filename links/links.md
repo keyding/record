@@ -10,6 +10,7 @@
 - [Electron](http://electron.atom.io/)
 - [Electron Docs](http://electron.atom.io/docs/)
 - [WEEX](https://weex-project.io/cn/)
+- [Notifications API](https://w3c-html-ig-zh.github.io/notifications/whatwg/)
 
 ## Vue
 
@@ -48,6 +49,7 @@
 - [站长工具](http://tool.chinaz.com/)
 - [全球 IPv4 地址归属地](http://www.ipip.net/)
 - [Fuse Docs](https://www.fusetools.com/docs)
+- [MEGA网盘](https://mega.nz)
 
 ## Manual
 
@@ -73,6 +75,7 @@
 - [FlGlet](https://aotu.io/notes/2016/11/22/figlet/)
 - [Nginx 配置 HTTPS 服务器](https://aotu.io/notes/2016/08/16/nginx-https/)
 - [招商银行工资单查询系统](https://www.bj.cmbchina.com/bjtransweb/wsgzd_employ/login.jsp)
+- [TECHSVIEWER](https://techsviewer.com/)
 
 ## Unfinished
 

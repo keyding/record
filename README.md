@@ -8,6 +8,7 @@
 - [mac下修改n安装不同版本nodejs的下载包的官方源](record/mac下修改n安装不同版本nodejs的下载包的官方源.md)
 - [mac安全性与隐私中没有任何来源选项](record/mac安全性与隐私中没有任何来源选项.md)
 - [centos6.5安装node.js](record/centos6.5安装node.js.md)
+- [如何在macOS Sierra上不使用第三方软件写入NTFS的U盘](record/如何在macos-sierra上不使用第三方软件写入NTFS的U盘.md)
 
 # Code
 
@@ -17,6 +18,7 @@
 - [给页面上所有元素标出边框](code/给页面上所有元素标出边框.md)
 - [用JS代码求出页面上一个元素的最终的background-color，不考虑IE浏览器，不考虑元素float情况](code/用JS代码求出页面上一个元素的最终的background-color.md)
 - [excel对角分割线实现](code/excel对角分割线实现.html)
+- [渐变之条纹背景](code/linear-gradient/index.md)
 
 # Links
 
