@@ -8,7 +8,7 @@
 - [mac下修改n安装不同版本nodejs的下载包的官方源](record/mac下修改n安装不同版本nodejs的下载包的官方源.md)
 - [mac安全性与隐私中没有任何来源选项](record/mac安全性与隐私中没有任何来源选项.md)
 - [centos6.5安装node.js](record/centos6.5安装node.js.md)
-- [如何在macOS Sierra上不使用第三方软件写入NTFS的U盘](record/如何在macos-sierra上不使用第三方软件写入NTFS的U盘.md)
+- [如何在macOS Sierra上不使用第三方软件写入NTFS的U盘](record/如何在macos-sierra上不使用第三方软件写入ntfs的u盘.md)
 
 # Code
 
