@@ -14,3 +14,12 @@
 
 - 关闭：`defaults write com.apple.Dock autohide-delay -float 0; killall Dock`
 - 还原：`defaults write com.apple.Dock autohide-delay; killall Dock`
+
+**关闭窗口和对话框弹出的动画特效**
+
+- 关闭 `defaults write -g NSAutomaticWindowAnimationsEnabled -bool FALSE`
+- 打开 `defaults delete -g NSAutomaticWindowAnimationsEnabled`
+
+**其他**
+
+http://bbs.feng.com/read-htm-tid-9575478.html
