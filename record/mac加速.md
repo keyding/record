@@ -7,8 +7,8 @@
 
 **禁用dock自动隐藏和显示动画**
 
-- 关闭：`efaults write com.apple.dock autohide-time-modifier -float 0; killall Dock`
-- 还原：`efaults write com.apple.dock autohide-time-modifier -float 0.7; killall Dock`
+- 关闭：`defaults write com.apple.dock autohide-time-modifier -float 0; killall Dock`
+- 还原：`defaults write com.apple.dock autohide-time-modifier -float 0.7; killall Dock`
 
 **关闭dock显示时的延时时间**
 
