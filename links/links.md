@@ -50,6 +50,7 @@
 - [全球 IPv4 地址归属地](http://www.ipip.net/)
 - [Fuse Docs](https://www.fusetools.com/docs)
 - [MEGA网盘](https://mega.nz)
+- [Chrome](https://developer.chrome.com/home)
 
 ## Manual
 
@@ -76,6 +77,8 @@
 - [Nginx 配置 HTTPS 服务器](https://aotu.io/notes/2016/08/16/nginx-https/)
 - [招商银行工资单查询系统](https://www.bj.cmbchina.com/bjtransweb/wsgzd_employ/login.jsp)
 - [TECHSVIEWER](https://techsviewer.com/)
+- [segmentfault](https://segmentfault.com/)
+- [TalkingCoder](https://www.talkingcoder.com)
 
 ## Unfinished
 
@@ -83,3 +86,4 @@
 - [vue-analysis](https://github.com/Ma63d/vue-analysis)
 - [高效编写微信小程序](https://isux.tencent.com/high-performance-wechat-app-development.html)
 - [PWA](https://zhuanlan.zhihu.com/p/25459319)
+- [aria2](http://www.jianshu.com/p/1290f8e7b326)
