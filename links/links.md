@@ -11,6 +11,7 @@
 - [Electron Docs](http://electron.atom.io/docs/)
 - [WEEX](https://weex-project.io/cn/)
 - [Notifications API](https://w3c-html-ig-zh.github.io/notifications/whatwg/)
+- [webpack2.2中文文档](http://www.css88.com/doc/webpack2/concepts/entry-points/)
 
 ## Vue
 
