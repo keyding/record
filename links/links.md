@@ -52,6 +52,7 @@
 - [Fuse Docs](https://www.fusetools.com/docs)
 - [MEGA网盘](https://mega.nz)
 - [Chrome](https://developer.chrome.com/home)
+- [HomeBrew](https://brew.sh/)
 
 ## Manual
 
@@ -68,6 +69,11 @@
 - [Express中文](http://www.expressjs.com.cn/)
 - [echarts 3](http://echarts.baidu.com/)
 - [Velocity.js](http://velocityjs.org/)
+
+## Design
+
+- [dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
 
 ## Other
 
