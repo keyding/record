@@ -2,6 +2,9 @@
 
 ## CSS
 
+- [CSS Animation](https://isux.tencent.com/css3/index.html)
+- [CSS参考手册](https://css.doyoe.com/)
+
 ## Javascript
 
 - [npm模块安装机制](http://www.ruanyifeng.com/blog/2016/01/npm-install.html)
@@ -53,6 +56,7 @@
 - [MEGA网盘](https://mega.nz)
 - [Chrome](https://developer.chrome.com/home)
 - [HomeBrew](https://brew.sh/)
+- [CanIUse](http://caniuse.com/)
 
 ## Manual
 
@@ -74,6 +78,7 @@
 
 - [dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
+- [ANT DESIGN](https://ant.design/index-cn)
 
 ## Other
 
@@ -94,3 +99,6 @@
 - [高效编写微信小程序](https://isux.tencent.com/high-performance-wechat-app-development.html)
 - [PWA](https://zhuanlan.zhihu.com/p/25459319)
 - [aria2](http://www.jianshu.com/p/1290f8e7b326)
+- [css3-transform](http://www.w3cplus.com/content/css3-transform)
+- [css3-transtion](http://www.w3cplus.com/content/css3-transition)
+- [css3-animation](https://www.w3cplus.com/content/css3-animation)
