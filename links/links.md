@@ -4,6 +4,8 @@
 
 - [CSS Animation](https://isux.tencent.com/css3/index.html)
 - [CSS参考手册](https://css.doyoe.com/)
+- [Sass](http://sass-lang.com/)
+- [Sass中文网](http://www.sass.hk/)
 
 ## Javascript
 
@@ -16,6 +18,7 @@
 - [Notifications API](https://w3c-html-ig-zh.github.io/notifications/whatwg/)
 - [webpack2.2中文文档](http://www.css88.com/doc/webpack2/concepts/entry-points/)
 - [A high-level browser automation library](http://www.nightmarejs.org/)
+- [GreenSock](https://greensock.com/)
 
 ## Vue
 
@@ -92,6 +95,7 @@
 - [TECHSVIEWER](https://techsviewer.com/)
 - [segmentfault](https://segmentfault.com/)
 - [TalkingCoder](https://www.talkingcoder.com)
+- [hackfun](https://www.hackfun.org/)
 
 ## Unfinished
 
@@ -103,3 +107,4 @@
 - [css3-transform](http://www.w3cplus.com/content/css3-transform)
 - [css3-transtion](http://www.w3cplus.com/content/css3-transition)
 - [css3-animation](https://www.w3cplus.com/content/css3-animation)
+- [Charles](http://blog.devtang.com/2015/11/14/charles-introduction/)
