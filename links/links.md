@@ -19,6 +19,7 @@
 - [webpack2.2中文文档](http://www.css88.com/doc/webpack2/concepts/entry-points/)
 - [A high-level browser automation library](http://www.nightmarejs.org/)
 - [GreenSock](https://greensock.com/)
+- [Three.js入门指南](http://www.ituring.com.cn/minibook/792)
 
 ## Vue
 
@@ -74,6 +75,7 @@
 - [Mint UI - 基于Vue.js(1.0 & 2.0)的移动端组件库](http://mint-ui.github.io/#!/zh-cn)
 - [VUX - 基于WeUI和Vue(2.x)开发的移动端UI组件库](https://vux.li/#/)
 - [Vue Material](https://vuematerial.github.io/#/)
+- [Muse-UI](https://www.muse-ui.org)
 - [Express中文](http://www.expressjs.com.cn/)
 - [echarts 3](http://echarts.baidu.com/)
 - [Velocity.js](http://velocityjs.org/)

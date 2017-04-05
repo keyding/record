@@ -10,6 +10,7 @@
 - [centos6.5安装node.js](record/centos6.5安装node.js.md)
 - [如何在macOS Sierra上不使用第三方软件写入NTFS的U盘](record/如何在macos-sierra上不使用第三方软件写入ntfs的u盘.md)
 - [electron安装时,node install.js长时间无响应的解决办法](record/electron安装时,node-install.js长时间无响应的解决办法.md)
+- [homebrew的使用](record/homebrew的使用.md)
 
 # Code
 
