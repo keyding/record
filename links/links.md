@@ -20,6 +20,8 @@
 - [A high-level browser automation library](http://www.nightmarejs.org/)
 - [GreenSock](https://greensock.com/)
 - [Three.js入门指南](http://www.ituring.com.cn/minibook/792)
+- [now&next.js](https://zeit.co/)
+- [React.js 小书](http://huziketang.com/books/react/)
 
 ## Vue
 
@@ -33,6 +35,8 @@
 - [vue-router源码分析](https://zhuanlan.zhihu.com/p/24104410)
 - [基于 Vue 的简洁 HTML5 视频播放器组件](https://github.com/hilongjw/vue-video)
 - [Vue2.0 Transition常见用法全解惑](http://hyuhan.com/2016/12/08/vue-transition/)
+- [Vue Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
+- [Vue2项目多入口模板改造方案](http://thunf.me/2017/02/17/20170217-grace-vue-boilerplate/)
 
 ## 小程序
 
@@ -79,6 +83,7 @@
 - [Express中文](http://www.expressjs.com.cn/)
 - [echarts 3](http://echarts.baidu.com/)
 - [Velocity.js](http://velocityjs.org/)
+- [typed.js](http://www.mattboldt.com/demos/typed-js/)
 
 ## Design
 
@@ -99,6 +104,7 @@
 - [segmentfault](https://segmentfault.com/)
 - [TalkingCoder](https://www.talkingcoder.com)
 - [hackfun](https://www.hackfun.org/)
+- [CiliBaBa](https://www.cilibaba.me/)
 
 ## Unfinished
 
