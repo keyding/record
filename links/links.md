@@ -117,3 +117,4 @@
 - [css3-transtion](http://www.w3cplus.com/content/css3-transition)
 - [css3-animation](https://www.w3cplus.com/content/css3-animation)
 - [Charles](http://blog.devtang.com/2015/11/14/charles-introduction/)
+- [Promise](http://www.jianshu.com/p/fe5f173276bd)
