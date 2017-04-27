@@ -66,6 +66,8 @@
 - [Chrome](https://developer.chrome.com/home)
 - [HomeBrew](https://brew.sh/)
 - [CanIUse](http://caniuse.com/)
+- [Mac Apps](http://xclient.info)
+- [字体](http://font.chinaz.com)
 
 ## Manual
 
@@ -118,3 +120,5 @@
 - [css3-animation](https://www.w3cplus.com/content/css3-animation)
 - [Charles](http://blog.devtang.com/2015/11/14/charles-introduction/)
 - [Promise](http://www.jianshu.com/p/fe5f173276bd)
+- [一个只有99行代码的JS流程框架](https://www.qcloud.com/community/article/537217001491374183)
+- [Flex](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
