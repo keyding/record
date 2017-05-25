@@ -22,6 +22,7 @@
 - [Three.js入门指南](http://www.ituring.com.cn/minibook/792)
 - [now&next.js](https://zeit.co/)
 - [React.js 小书](http://huziketang.com/books/react/)
+- [webpack 中文](https://doc.webpack-china.org/)
 
 ## Vue
 
