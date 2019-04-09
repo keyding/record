@@ -11,6 +11,7 @@
 - [如何在macOS Sierra上不使用第三方软件写入NTFS的U盘](record/如何在macos-sierra上不使用第三方软件写入ntfs的u盘.md)
 - [electron安装时,node install.js长时间无响应的解决办法](record/electron安装时,node-install.js长时间无响应的解决办法.md)
 - [homebrew的使用](record/homebrew的使用.md)
+- [Mac 下 SSH 免密码登录 Linux 服务器](https://github.com/tita0x00/record/issues/2)
 
 # Code
 
